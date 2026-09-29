@@ -144,8 +144,6 @@ The calculator can be deployed using **GitHub Pages**.
 **Live Demo:**  
 `https://github.com/RohanVerma-aft/js-Calculator/`
 
-> Replace `RohanVerma-aft` with your GitHub username after enabling GitHub Pages.
-
 ---
 
 ## 🔮 Future Improvements
