@@ -141,8 +141,7 @@ Contains the calculator logic including:
 
 The calculator can be deployed using **GitHub Pages**.
 
-**Live Demo:**  
-`https://github.com/RohanVerma-aft/js-Calculator/`
+[Click here to try the Calculator](https://rohanverma-aft.github.io/js-Calculator/)
 
 ---
 
